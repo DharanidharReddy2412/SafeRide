@@ -1,0 +1,23 @@
+{
+  "name": "saferide",
+  "version": "1.0.0",
+  "description": "Server of SafeRide Project to store crash data",
+  "homepage": "https://github.com/DharanidharReddy2412/SafeRide#readme",
+  "bugs": {
+    "url": "https://github.com/DharanidharReddy2412/SafeRide/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DharanidharReddy2412/SafeRide.git"
+  },
+  "license": "ISC",
+  "author": "Dharanidhar Reddy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
