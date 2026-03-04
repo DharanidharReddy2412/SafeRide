@@ -1,3 +1,3 @@
 # SafeRide
 
-SafeRide is an IoT based Impact detectiona nd Emergeny Alert System built by using ESP32 as a core controlling system that works with mpu6050 and neo6m.
+SafeRide is an IoT Based smart helmet system that is designed to improve the safety of two-wheeler riders by automatically detecting and sending emergency alerts with location information to pre-registered contacts.
